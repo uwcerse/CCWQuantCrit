@@ -1,1 +1,2 @@
-
+This repository includes files associated with the University of Washington Center for Evaluation & Research for STEM Equity (CERSE)'s research on Community Cultural Wealth, conducted in collaboration with the Pacific Northwest Louis Stokes Alliance for Minority Participation (PNW LSAMP), funded by NSF Grant Number 1911026.
+The data file ('ccwdata_for sharing.csv') has been anonymized and does not contain survey items related to the LSAMP evaluation included in the Survey Questionnaire PDF.
